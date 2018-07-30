@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /etc/puppet/code && git pull https://github.com/PhilLangerholc/puppet.git apply manifests/
